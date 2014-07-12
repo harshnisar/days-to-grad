@@ -1,0 +1,68 @@
+<html>
+  <head>
+  <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="stylesheet.css" media="all" />
+    <title></title>
+    <meta content="">
+    <style>
+    </style>
+  </head>
+  <div id = 'main'>
+  <body>
+  <table border = 'solid'>
+    <tr>
+      <td>
+      <h1> <font color = '#0266C8'>About Me </font></h1>
+      </td>
+    </tr>
+    
+    <tr>
+    <td>
+    <h2> Education </h2>
+    
+    <p>
+    <div id='tinytext'> I am currently in my 6th semester, pursuing a major in ICT from <a href = 'http://www.daiict.ac.in'>DA-IICT</a> </p>
+    </div>
+    
+    <h2>Technical </h2>
+    <div id='tinytext'>
+    You can check my CV. This page is because there is more to me that just that.   
+    </div>
+    
+    <h2> Google Student Ambassador </h2>
+    <div id='tinytext'>
+    You can find all my work related to the above <a href='/projects.html#gsa'>here</a>.
+    <br><br>
+    Founder of Google Students Club, DA-IICT
+    <br><br>
+    Attended Google India Community Summit '13
+    
+    <h2> Teaching and Travel </h2>
+    <p>
+    <div id='tinytext'>I want to do things that make a direct direct difference in lives of people and <b>education</b> in one the mediums <br>
+    I've taught numbers in a village named ___, taught 10th grade students in Ladakh and taught Scratch to school children.<br><br> 
+    I've caught wanderlust after my solo month long trip to Ladakh and waiting for the chance to go again.<br>
+    Co-Founder Excursion Club, DA-IICT in the year 2013.
+    </div>
+    
+    <h2> Co-curricular and Hobbies </h2>
+    <p> 
+    <div id='tinytext'>I am currently the <b>captain</b> of DA-IICT's Football Team and <b>guitarist</b> in the college band
+    <br><br>
+    I love to <b>write</b>. Most of my writings are really sentimental, nostalgic and emo, but simple. Check my <a href ='http://avoidingdecadence.blogspot.com'>blog</a> out. I even contribute to the college magazine, Entelechy.
+    <br><br>
+    
+    
+    </div>
+    </p>
+    
+    
+    
+    </td>
+    </tr>
+  <table>
+  </div>
+  
+  
+  </body>
+</html>

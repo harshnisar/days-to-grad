@@ -1,0 +1,610 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"uncomm",
+				"uncommon_thresh"
+			],
+			[
+				"pciked",
+				"picked_sentences"
+			],
+			[
+				"countinfo",
+				"countinfo"
+			],
+			[
+				"d",
+				"dialogues"
+			],
+			[
+				"dial",
+				"dialogue"
+			],
+			[
+				"score",
+				"score_common_words"
+			],
+			[
+				"sc",
+				"score_firstchar_upper"
+			],
+			[
+				"uncom",
+				"uncommon_thresh"
+			],
+			[
+				"coun",
+				"Countinfo"
+			],
+			[
+				"to",
+				"totwords"
+			],
+			[
+				"stop",
+				"stopwordset"
+			],
+			[
+				"s",
+				"stopwordfile"
+			],
+			[
+				"corpus",
+				"corpusfile"
+			],
+			[
+				"sen",
+				"sentence"
+			],
+			[
+				"word",
+				"wordtokenizer"
+			],
+			[
+				"sente",
+				"sentences"
+			],
+			[
+				"dia",
+				"dialogue"
+			],
+			[
+				"is",
+				"is_firstchar_upper"
+			],
+			[
+				"sor",
+				"sorted_picked"
+			],
+			[
+				"top",
+				"topwordset"
+			],
+			[
+				"sent_",
+				"sent_less_stop_words"
+			],
+			[
+				"c",
+				"count_uncommonwords"
+			],
+			[
+				"list",
+				"listwords"
+			],
+			[
+				"pop",
+				"pop_word_set_gen"
+			],
+			[
+				"file",
+				"file_generator"
+			],
+			[
+				"p",
+				"pick"
+			],
+			[
+				"so",
+				"sorted_picked"
+			],
+			[
+				"max",
+				"max_thresh"
+			],
+			[
+				"m",
+				"min_thresh"
+			],
+			[
+				"sentence",
+				"sentence_picker"
+			],
+			[
+				"pci",
+				"picked_sentences"
+			],
+			[
+				"pic",
+				"picked_sentences"
+			],
+			[
+				"sentle",
+				"sentlen_less_stop_words"
+			],
+			[
+				"u",
+				"utility"
+			],
+			[
+				"ma",
+				"max_thresh"
+			],
+			[
+				"sent",
+				"sent"
+			],
+			[
+				"di",
+				"dialogue"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"punc",
+				"punc_strippers"
+			],
+			[
+				"count_",
+				"count_above_max"
+			],
+			[
+				"count",
+				"count_above_max"
+			],
+			[
+				"newline",
+				"newline_char"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"avg",
+				"avg_diff_score"
+			],
+			[
+				"len",
+				"len_differece"
+			],
+			[
+				"ut",
+				"utf-8"
+			],
+			[
+				"sentence1",
+				"sentence1_words"
+			],
+			[
+				"egn",
+				"engsentences"
+			],
+			[
+				"trans",
+				"translated_word"
+			],
+			[
+				"tes1",
+				"testsen1"
+			],
+			[
+				"tran",
+				"translated_sentence"
+			],
+			[
+				"tes",
+				"testsen2"
+			],
+			[
+				"te",
+				"testsen1"
+			],
+			[
+				"translated",
+				"translated_word"
+			],
+			[
+				"tras",
+				"translation_lookup"
+			],
+			[
+				"ta",
+				"translated_sentence"
+			],
+			[
+				"tra",
+				"translation_lookup"
+			],
+			[
+				"en",
+				"en_hi"
+			],
+			[
+				"del",
+				"delim"
+			],
+			[
+				"cs",
+				"csv_generator"
+			],
+			[
+				"hin",
+				"hinsentences"
+			],
+			[
+				"lang",
+				"lang"
+			],
+			[
+				"unicode",
+				"unicode"
+			],
+			[
+				"langinf",
+				"langinfo"
+			],
+			[
+				"this",
+				"thislang"
+			],
+			[
+				"lan",
+				"langinfolist"
+			],
+			[
+				"need",
+				"need_punkt"
+			],
+			[
+				"eng",
+				"engsentences"
+			],
+			[
+				"get_top",
+				"get_top_from_all"
+			],
+			[
+				"ra",
+				"randomnumber"
+			],
+			[
+				"teh",
+				"tehlink"
+			],
+			[
+				"cute",
+				"cutedict"
+			],
+			[
+				"text",
+				"text"
+			],
+			[
+				"de",
+				"decode"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"color",
+				"colorcodespace"
+			],
+			[
+				"rd",
+				"rd"
+			],
+			[
+				"ran",
+				"randint"
+			],
+			[
+				"ca",
+				"cache"
+			],
+			[
+				"cache",
+				"cachesize"
+			],
+			[
+				"c1",
+				"c1ch"
+			],
+			[
+				"code",
+				"code"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"data",
+				"data_dates"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 243.0,
+		"selected_items":
+		[
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/harsh/daystograduation/static/stylesheet.css",
+		"/home/harsh/daystograduation/static/index.html",
+		"/home/harsh/Tatoeba/missing-tatoe/sentencesplitter.py",
+		"/home/harsh/Tatoeba/missing-tatoe/log_all_sentences.txt",
+		"/home/harsh/Tatoeba/missing-tatoe/editdistance.py",
+		"/home/harsh/Tatoeba/missing-tatoe/kafka.txt",
+		"/home/harsh/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/harsh/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/harsh/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/harsh/Tatoeba/missing-tatoe/langinfo.csv",
+		"/home/harsh/Tatoeba/missing-tatoe/langlist.csv",
+		"/home/harsh/Coding/reddit/imgur-hosted-reddit-posted-downloader/langinfo.csv",
+		"/home/harsh/Coding/daily-things/main.py",
+		"/home/harsh/Coding/daily-things/dataloader.py",
+		"/home/harsh/Coding/daily-things/app.yaml",
+		"/home/harsh/Coding/reddit/imgur-hosted-reddit-posted-downloader/dailycutewriteup",
+		"/home/harsh/Coding/reddit/imgur-hosted-reddit-posted-downloader/dict.py",
+		"/home/harsh/Coding/reddit/imgur-hosted-reddit-posted-downloader/imgur-hosted-reddit-posted-downloader.py",
+		"/media/New Volume/Coding/twitterbot.py",
+		"/home/harsh/Coding/reddit/imgur-hosted-reddit-posted-downloader/interactiveconsole.py",
+		"/home/harsh/Coding/reddit/Bash-Utils/reddit/reddit_get_all_pages.py",
+		"/home/harsh/google_appengine/bulkloader.yaml",
+		"/home/harsh/Coding/codingtheory/summer.txt",
+		"/home/harsh/Documents/Topic : WriteGift or WriteWay or WriteThing.",
+		"/home/harsh/Tatoeba/missing-tatoe/corpusreader.py",
+		"/home/harsh/Tatoeba/missing-tatoe/parallel corpus/hindi/agro1.Hindi",
+		"/home/harsh/Tatoeba/missing-tatoe/hindi",
+		"/home/harsh/Tatoeba/missing-tatoe/CorpusReader.py",
+		"/media/New Volume/Mix Tape/01 - Only the Lonely.mp3",
+		"/home/harsh/harsh-nisar/static/home.html",
+		"/home/harsh/Downloads/optimal.py",
+		"/home/harsh/Downloads/randompaging.py",
+		"/home/harsh/harsh-nisar/static/projects.html",
+		"/home/harsh/Tatoeba/languages",
+		"/home/harsh/Tatoeba/दो बैलों की कथा - मुंशी प्रेमचंद | Do Baloon Ki Katha - Munshi Premchand_files/transliteration.js",
+		"/home/harsh/Academics/Coding Theory ",
+		"/home/harsh/Tatoeba/wikifiction.txt",
+		"/home/harsh/chatkeep/apengine/rishavtempapp/user.py",
+		"/home/harsh/chatkeep/apengine/rishavtempapp/main3.py",
+		"/home/harsh/Tatoeba/tatoeba_parser/configure",
+		"/home/harsh/Tatoeba/tatoeba_parser/Makefile",
+		"/home/harsh/Tatoeba/tatoeba_parser/Makefile.in",
+		"/home/harsh/Tatoeba/tatoeba_parser/configure.ac"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"topwordcheck",
+			"topwordlist",
+			"numwords",
+			"no thanks, I've had enough.",
+			"engsentences",
+			"print",
+			"downloadImage",
+			"cosetlist",
+			"scodes",
+			"print",
+			"D",
+			"codes",
+			"]))\n",
+			"itertools",
+			"import",
+			"\n#",
+			"curse",
+			"curs",
+			"gcc",
+			"curses",
+			"gcc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sentlen",
+			"lines"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
